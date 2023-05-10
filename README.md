@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=onedark" width="60%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molaryy&theme=radical&layout=compact&langs_count=6" width="50%" />
 </p>
