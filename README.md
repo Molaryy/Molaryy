@@ -13,7 +13,6 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=onedark" width="60%" />
-  <br/>
+  ![Molaryy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=onedark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molaryy&theme=radical&layout=compact&langs_count=6" width="50%" />
 </p>
