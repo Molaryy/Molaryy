@@ -16,3 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=dark" width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molaryy&theme=dark&layout=compact&langs_count=6" width="50%" />
 </p>
+<img href="https://wakatime.com/badge/user/1c718b11-5f37-4073-9c96-d47b760f6d07.svg">
