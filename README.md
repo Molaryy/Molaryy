@@ -16,4 +16,5 @@
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=dark" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molaryy&theme=dark&layout=compact&langs_count=6" width="50%" />
 </p>
