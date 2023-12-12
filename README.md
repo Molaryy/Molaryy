@@ -11,9 +11,6 @@
       <img src="https://img.shields.io/badge/PoC Innovation-36454F?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <img src="https://wakatime.com/badge/user/1c718b11-5f37-4073-9c96-d47b760f6d07.svg">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Molaryy&label=Profile%20Views&color=8&icon=2&pretty=false" />
-  </a>
 </p>
 
 
@@ -21,3 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=dark" width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molaryy&theme=dark&layout=compact&langs_count=6" width="50%" />
 </p>
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Molaryy&label=Profile%20Views&color=8&icon=2&pretty=false" />
+  </a>
