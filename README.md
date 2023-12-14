@@ -20,4 +20,4 @@
 </p>
 <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Molaryy&label=Profile%20Views&color=8&icon=2&pretty=false" />
-  </a>
+</a>
