@@ -14,11 +14,6 @@
 </p>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Molaryy&show_icons=true&count_private=true&theme=dark" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molaryy&theme=dark&layout=compact&langs_count=6" width="50%" />
-</p>
 <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Molaryy&label=Profile%20Views&color=8&icon=2&pretty=false" />
 </a>
