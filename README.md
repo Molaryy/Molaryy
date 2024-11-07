@@ -2,6 +2,8 @@
   Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <p align=center>
   <a href="https://www.epitech.eu">
@@ -16,4 +18,3 @@
   <img src="https://wakatime.com/badge/user/1c718b11-5f37-4073-9c96-d47b760f6d07.svg">
 </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
