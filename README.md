@@ -12,8 +12,5 @@
   <a href="https://github.com/PoCInnovation">
       <img src="https://img.shields.io/badge/PoC Innovation-36454F?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Molaryy&label=Profile%20Views&color=8&icon=2&pretty=false" />
-  </a>
 </p>
 
