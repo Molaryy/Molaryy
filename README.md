@@ -4,6 +4,35 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+Currently reading:
+</br>
+<div style="display: flex;">
+  <img
+    src="https://m.media-amazon.com/images/I/91yMrjrKOmL._AC_UF1000,1000_QL80_.jpg"
+    width=150
+    height=200
+  />
+  <img
+    src="https://m.media-amazon.com/images/I/91CZ5e4UeHL._AC_UF1000,1000_QL80_.jpg"
+    width=150
+    height=200
+  />
+  <img
+    src="https://m.media-amazon.com/images/I/814nAGmpAGL._AC_UF1000,1000_QL80_.jpg"
+    width=150
+    height=200
+  />
+</div>
+
+</br>
+
+Can you guess which one I drew and which one [Renée French](https://en.wikipedia.org/wiki/Ren%C3%A9e_French) drew?
+</br>
+<img
+  src="./.github/gopher.png"
+  width=150
+  height=90
+/>
 
 <p align=center>
   <a href="https://www.epitech.eu">
