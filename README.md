@@ -26,14 +26,6 @@ Currently reading:
 
 </br>
 
-Can you guess which one I drew and which one [Renée French](https://en.wikipedia.org/wiki/Ren%C3%A9e_French) drew?
-</br>
-<img
-  src="./.github/gopher.png"
-  width=150
-  height=90
-/>
-
 <p align=center>
   <a href="https://www.epitech.eu">
       <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
