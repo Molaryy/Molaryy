@@ -14,16 +14,6 @@ Currently reading:
   />
 </div>
 
-Already finished reading:
-</br>
-<div style="display: flex;">
-  <img
-    src="https://m.media-amazon.com/images/I/814nAGmpAGL._AC_UF1000,1000_QL80_.jpg"
-    width=150
-    height=200
-  />
-</div>
-
 </br>
 
 <p align=center>
